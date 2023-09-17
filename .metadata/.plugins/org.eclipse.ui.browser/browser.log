@@ -1,0 +1,153 @@
+
+Jan 06, 2022 14:48:57.998 NEW SESSION
+Jan 06, 2022 14:48:57.998 Opening in existing browser session.
+Jan 06, 2022 15:25:03.710 Opening in existing browser session.
+Jan 06, 2022 15:28:29.947 Opening in existing browser session.
+Jan 06, 2022 15:32:17.759 Opening in existing browser session.
+Jan 06, 2022 16:55:44.380 Opening in existing browser session.
+Jan 06, 2022 16:56:50.598 Opening in existing browser session.
+Jan 06, 2022 16:58:04.687 Opening in existing browser session.
+Jan 06, 2022 16:58:45.85 Opening in existing browser session.
+Jan 06, 2022 17:00:21.230 Opening in existing browser session.
+
+Jan 07, 2022 10:50:27.892 NEW SESSION
+Jan 07, 2022 10:50:27.892 Opening in existing browser session.
+Jan 07, 2022 10:52:23.434 Opening in existing browser session.
+Jan 07, 2022 12:42:31.984 Opening in existing browser session.
+Jan 07, 2022 12:48:22.861 Opening in existing browser session.
+Jan 07, 2022 13:01:38.251 Opening in existing browser session.
+
+Jan 07, 2022 14:15:32.157 NEW SESSION
+Jan 07, 2022 14:15:32.157 Opening in existing browser session.
+Jan 07, 2022 14:21:41.765 Opening in existing browser session.
+Jan 07, 2022 14:22:54.712 Opening in existing browser session.
+Jan 07, 2022 14:26:29.246 Opening in existing browser session.
+Jan 07, 2022 15:02:33.790 Opening in existing browser session.
+Jan 07, 2022 15:27:19.199 Opening in existing browser session.
+Jan 07, 2022 15:34:10.516 Opening in existing browser session.
+Jan 07, 2022 15:39:28.367 Opening in existing browser session.
+Jan 07, 2022 15:46:42.529 Opening in existing browser session.
+Jan 07, 2022 16:10:17.44 Opening in existing browser session.
+
+Jan 10, 2022 09:51:41.983 NEW SESSION
+Jan 10, 2022 09:51:41.983 Opening in existing browser session.
+Jan 10, 2022 10:50:56.482 Opening in existing browser session.
+Jan 10, 2022 11:02:15.494 Opening in existing browser session.
+Jan 10, 2022 11:20:30.442 Opening in existing browser session.
+Jan 10, 2022 11:21:07.640 Opening in existing browser session.
+Jan 10, 2022 11:24:16.94 Opening in existing browser session.
+Jan 10, 2022 12:23:39.678 Opening in existing browser session.
+Jan 10, 2022 12:25:42.320 Opening in existing browser session.
+Jan 10, 2022 12:26:31.591 Opening in existing browser session.
+Jan 10, 2022 12:37:05.328 Opening in existing browser session.
+Jan 10, 2022 12:42:55.311 Opening in existing browser session.
+Jan 10, 2022 12:45:32.194 Opening in existing browser session.
+Jan 10, 2022 12:45:58.658 Opening in existing browser session.
+Jan 10, 2022 12:47:14.70 Opening in existing browser session.
+Jan 10, 2022 12:48:25.494 Opening in existing browser session.
+Jan 10, 2022 12:52:37.743 Opening in existing browser session.
+Jan 10, 2022 12:55:30.679 Opening in existing browser session.
+Jan 10, 2022 12:57:24.870 Opening in existing browser session.
+Jan 10, 2022 12:59:04.16 Opening in existing browser session.
+Jan 10, 2022 14:03:33.964 Opening in existing browser session.
+Jan 10, 2022 14:09:43.54 Opening in existing browser session.
+Jan 10, 2022 17:01:17.668 Opening in existing browser session.
+Jan 10, 2022 17:11:16.356 Opening in existing browser session.
+Jan 10, 2022 17:16:59.238 Opening in existing browser session.
+Jan 10, 2022 17:21:32.311 Opening in existing browser session.
+Jan 10, 2022 17:29:05.515 Opening in existing browser session.
+Jan 10, 2022 17:34:01.427 Opening in existing browser session.
+Jan 10, 2022 17:41:00.645 [12328:4920:0110/174100.644:ERROR:chrome_browser_main_extra_parts_metrics.cc(227)] START: ReportBluetoothAvailability(). If you don't see the END: message, this is crbug.com/1216328.
+Jan 10, 2022 17:41:00.647 [12328:4920:0110/174100.644:ERROR:chrome_browser_main_extra_parts_metrics.cc(230)] END: ReportBluetoothAvailability()
+Jan 10, 2022 17:41:00.651 [12328:4920:0110/174100.644:ERROR:chrome_browser_main_extra_parts_metrics.cc(235)] START: GetDefaultBrowser(). If you don't see the END: message, this is crbug.com/1216328.
+Jan 10, 2022 17:41:00.657 [12328:16580:0110/174100.655:ERROR:device_event_log_impl.cc(214)] [17:41:00.655] USB: usb_service_win.cc:392 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Jan 10, 2022 17:41:00.660 [12328:4920:0110/174100.657:ERROR:chrome_browser_main_extra_parts_metrics.cc(239)] END: GetDefaultBrowser()
+Jan 10, 2022 17:41:00.662 [12328:16580:0110/174100.659:ERROR:device_event_log_impl.cc(214)] [17:41:00.659] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 10, 2022 17:41:00.663 [12328:16580:0110/174100.659:ERROR:device_event_log_impl.cc(214)] [17:41:00.660] USB: usb_device_handle_win.cc:1050 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Jan 10, 2022 17:41:00.839 [12328:16580:0110/174100.838:ERROR:device_event_log_impl.cc(214)] [17:41:00.838] Bluetooth: bluetooth_adapter_winrt.cc:1206 Getting Radio failed. Chrome will be unable to change the power state by itself.
+Jan 10, 2022 17:41:00.879 [12328:16580:0110/174100.877:ERROR:device_event_log_impl.cc(214)] [17:41:00.878] Bluetooth: bluetooth_adapter_winrt.cc:1299 OnPoweredRadiosEnumerated(), Number of Powered Radios: 0
+Jan 10, 2022 17:46:58.175 Opening in existing browser session.
+Jan 10, 2022 17:59:33.317 Opening in existing browser session.
+Jan 10, 2022 18:00:25.749 Opening in existing browser session.
+Jan 10, 2022 18:01:40.45 Opening in existing browser session.
+Jan 10, 2022 18:07:12.839 Opening in existing browser session.
+Jan 10, 2022 18:09:57.869 Opening in existing browser session.
+Jan 10, 2022 18:26:32.177 Opening in existing browser session.
+
+Jan 11, 2022 08:57:53.967 NEW SESSION
+Jan 11, 2022 08:57:53.967 Opening in existing browser session.
+Jan 11, 2022 09:03:22.144 Opening in existing browser session.
+Jan 11, 2022 09:06:13.336 Opening in existing browser session.
+Jan 11, 2022 09:11:25.415 Opening in existing browser session.
+Jan 11, 2022 09:13:35.495 Opening in existing browser session.
+Jan 11, 2022 09:19:23.416 Opening in existing browser session.
+Jan 11, 2022 09:24:39.472 Opening in existing browser session.
+Jan 11, 2022 10:05:25.105 Opening in existing browser session.
+Jan 11, 2022 10:13:55.757 Opening in existing browser session.
+Jan 11, 2022 10:17:32.516 Opening in existing browser session.
+Jan 11, 2022 10:18:57.787 Opening in existing browser session.
+Jan 11, 2022 10:20:15.912 Opening in existing browser session.
+Jan 11, 2022 10:21:24.520 Opening in existing browser session.
+Jan 11, 2022 11:39:36.639 Opening in existing browser session.
+Jan 11, 2022 11:48:35.17 Opening in existing browser session.
+Jan 11, 2022 11:50:48.848 Opening in existing browser session.
+Jan 11, 2022 13:18:31.557 Opening in existing browser session.
+Jan 11, 2022 13:21:03.780 Opening in existing browser session.
+Jan 11, 2022 13:55:08.533 Opening in existing browser session.
+Jan 11, 2022 13:57:19.41 Opening in existing browser session.
+Jan 11, 2022 14:08:57.160 Opening in existing browser session.
+Jan 11, 2022 14:16:30.833 Opening in existing browser session.
+Jan 11, 2022 15:17:17.241 Opening in existing browser session.
+Jan 11, 2022 16:51:45.69 Opening in existing browser session.
+Jan 11, 2022 17:04:34.158 Opening in existing browser session.
+Jan 11, 2022 17:06:19.418 Opening in existing browser session.
+Jan 11, 2022 17:11:54.950 Opening in existing browser session.
+Jan 11, 2022 17:15:10.606 Opening in existing browser session.
+Jan 11, 2022 17:19:40.537 Opening in existing browser session.
+
+Jan 12, 2022 09:24:34.834 NEW SESSION
+Jan 12, 2022 09:24:34.834 Opening in existing browser session.
+Jan 12, 2022 11:05:25.325 Opening in existing browser session.
+Jan 12, 2022 12:26:59.828 Opening in existing browser session.
+Jan 12, 2022 12:31:32.460 Opening in existing browser session.
+Jan 12, 2022 12:33:49.597 Opening in existing browser session.
+Jan 12, 2022 12:46:43.707 Opening in existing browser session.
+Jan 12, 2022 14:07:55.523 Opening in existing browser session.
+Jan 12, 2022 17:03:48.705 Opening in existing browser session.
+
+Jan 13, 2022 09:30:45.539 NEW SESSION
+Jan 13, 2022 09:30:45.540 Opening in existing browser session.
+Jan 13, 2022 10:03:19.566 Opening in existing browser session.
+Jan 13, 2022 12:54:05.909 Opening in existing browser session.
+
+Jan 21, 2022 18:17:35.868 NEW SESSION
+Jan 21, 2022 18:17:35.868 Opening in existing browser session.
+
+Jan 24, 2022 09:17:23.752 NEW SESSION
+Jan 24, 2022 09:17:23.752 Opening in existing browser session.
+Jan 24, 2022 09:18:45.785 Opening in existing browser session.
+Jan 24, 2022 09:23:03.586 Opening in existing browser session.
+
+Jan 24, 2022 12:11:09.801 NEW SESSION
+Jan 24, 2022 12:11:09.801 Opening in existing browser session.
+Jan 24, 2022 12:45:52.699 Opening in existing browser session.
+Jan 24, 2022 13:16:54.981 Opening in existing browser session.
+
+Jan 24, 2022 15:39:16.874 NEW SESSION
+Jan 24, 2022 15:39:16.874 Opening in existing browser session.
+Jan 24, 2022 15:40:00.576 Opening in existing browser session.
+Jan 24, 2022 15:41:05.784 Opening in existing browser session.
+Jan 24, 2022 15:55:36.235 Opening in existing browser session.
+Jan 24, 2022 16:00:10.492 Opening in existing browser session.
+Jan 24, 2022 16:04:37.61 Opening in existing browser session.
+
+Jan 24, 2022 16:08:11.984 NEW SESSION
+Jan 24, 2022 16:08:11.984 Opening in existing browser session.
+Jan 24, 2022 16:09:09.678 Opening in existing browser session.
+Jan 24, 2022 16:15:54.658 Opening in existing browser session.
+
+Jan 24, 2022 16:19:00.523 NEW SESSION
+Jan 24, 2022 16:19:00.524 Opening in existing browser session.
+
+Jan 28, 2022 09:46:02.441 NEW SESSION
+Jan 28, 2022 09:46:02.441 Opening in existing browser session.

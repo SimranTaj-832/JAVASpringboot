@@ -1,0 +1,21 @@
+package com.cntrlr;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.p1.BankDao;
+import com.pojo.Customer;
+
+@Controller
+public class BankController {
+	@Autowired
+	BankDao dao;
+	@RequestMapping("/regform")
+	public String showform(Model m) {
+		m.addAttribute("command",new Customer());
+		return "regform";
+	}
+	
+}

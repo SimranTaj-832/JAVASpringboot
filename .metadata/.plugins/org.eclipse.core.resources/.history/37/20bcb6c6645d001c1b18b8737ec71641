@@ -1,0 +1,15 @@
+package p1;
+
+public class InrclsEmp {
+
+	public static void main(String[] args) {
+		Emp1 ob = new Emp1();
+		ob.setEid(1001);
+		ob.setEname("Ash");
+		ob.aobj.inputAddr(201,"Bangalore");
+		System.out.println(ob);
+		System.out.println(ob.getEname());
+
+	}
+
+}

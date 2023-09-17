@@ -1,0 +1,17 @@
+package com.p1;
+
+import org.springframework.jdbc.core.JdbcOperations;
+import org.springframework.jdbc.core.JdbcTemplate;
+
+public class BankDao {
+JdbcTemplate template;
+	
+	public void setTemplate(JdbcTemplate template) {
+		this.template=template;
+	}
+	
+	public int deposit(Emp p) {
+		String sql="update empl set name="+"'"+p.getName()+"',salary="+p.getSalary()+"where id="+p.getId();
+		return ((JdbcOperations) template).update(sql);
+	}
+}
